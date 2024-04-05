@@ -4,7 +4,7 @@ Securely store any secretes or tokens in your code (thats running on AWS) using 
 <br>
 
 ## secrete.py
-Using the 7 steps and x functions in the `secrete.py` file you should be able to securely store and access secretes and tokens directly in your code
+Using the 7 steps and 6 functions in the `secrete.py` file you will be able to securely store and access `secretes / tokens` directly in your code.
 1. Generate `Fernet key`
 2. Encrypt `api token / secrete`
 3. Write encrypted `api token / secrete` to file
